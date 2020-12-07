@@ -25,7 +25,7 @@ function App() {
         <div style={{color:"white", maxWidth: '50%', fontSize: "2rem", marginTop: "0.5rem"}}>November 5th, 2020 </div>
       </div>
       <div style={{marginTop: "1rem"}}>
-        <Gallery photos={photos} onClick={openLightbox} />
+        <Gallery photos={photos} onClick={openLightbox}/>
         <ModalGateway>
           {viewerIsOpen ? (
             <Modal onClose={closeLightbox}>
