@@ -21,8 +21,8 @@ function App() {
   return (
     <div style={{display: "flex", flexDirection: "column", alignContent: "center"}}>
       <div style={{display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center"}}>
-        <div style={{color:"white", maxWidth: '50%', fontSize: "5.0vh", marginTop: "1rem"}}>Amanda & Brandon</div>
-        <div style={{color:"white", maxWidth: '50%', fontSize: "3.0vh", marginTop: "0.5rem"}}>November 5th, 2020 </div>
+        <div style={{color:"white", maxWidth: '50%', fontSize: "5.0vw", marginTop: "1rem"}}>Amanda & Brandon</div>
+        <div style={{color:"white", maxWidth: '50%', fontSize: "3.0vw", marginTop: "0.5rem"}}>November 5th, 2020 </div>
       </div>
       <div style={{marginTop: "1rem"}}>
         <Gallery photos={photos} onClick={openLightbox}/>
@@ -42,8 +42,8 @@ function App() {
         </ModalGateway>
       </div>
       <div style={{display: "flex", flexDirection: "row", justifyContent: "space-between", marginTop: "0.5rem", marginBottom: "0.5rem"}}>
-        <div style={{color:"white", fontSize: "3.0vh", marginLeft: "1rem"}}><a style={{textDecoration: "none", color: "white"}} href="https://www.blackbutteranch.com/weddings/elopements/" target="blank">Black Bute Ranch</a></div>
-        <div style={{color:"white", fontSize: "3.0vh", marginRight: "1rem"}}><a style={{textDecoration: "none", color: "white"}} href="https://www.instagram.com/lucyfotomama/?hl=en" target="blank">Lucy Hobbs Photography</a></div>
+        <div style={{color:"white", fontSize: "3.0vw", marginLeft: "1rem"}}><a style={{textDecoration: "none", color: "white"}} href="https://www.blackbutteranch.com/weddings/elopements/" target="blank">Black Bute Ranch</a></div>
+        <div style={{color:"white", fontSize: "3.0vw", marginRight: "1rem"}}><a style={{textDecoration: "none", color: "white"}} href="https://www.instagram.com/lucyfotomama/?hl=en" target="blank">Lucy Hobbs Photography</a></div>
       </div>
       
     </div>
