@@ -14,6 +14,7 @@ import img14 from './images/wedding_14.jpg'
 import img15 from './images/wedding_15.jpg'
 import img16 from './images/wedding_16.jpg'
 import img17 from './images/wedding_17.jpg'
+import img18 from './images/wedding_18.jpg'
 
 export const photos = [
     {
@@ -98,7 +99,7 @@ export const photos = [
       height: 4
     },
     {
-      src: "https://lh3.googleusercontent.com/sGmcneQSQbIYnZIa49jYRdwRO6709PpQbRP0fEWC6soF8R03gmVgzDVYgkAIobMdpfseDbvov-wd6uFtt5mXDaSzWmJjnJDKCqMwBEzq9xZCQy4uA5Mtw3sy0ooBWwDQp-QhPW6EwQvbhA-zGqgae0Uk9rKTyn6iHgEzkYrPhosQ8z7TmrTPbxAgwp_gUagzu7FSMHAJEQxzNANcdplwyoUGWEXMYcxgKWwEd6W_Xslg_s8eWSxpnoH2iYqus2z0tOwM-lopKbpcZZBuX8uZZW6VvL17jo8_QNwxoB4ZLtl5pBaAc6ipZPBXGQfWbe0BWbjVWayx1BoIbGdXvssRPJsCU4Mb8eEFScWvIZNxthzdgkQOkh2PRJ7FIp4Rc32Qgpw0JHPY-ChtAwspl6k4tfocFBP5nfnhu8VhxB-qYvOcD5w3vUd5H1qVfH-B4pl0gfQkbFI0H8DEe6VoH8GRhU5vRXybXVkuCXWCMDynzQDD-6XICbGBzGWKkv8kjhRE7cqyMS7mB-GbCO8R529WV6q58qcTwZr57VEcS6W_4GHpE0mXxD2myCfmv9nrc8sLQJW-hhc0ZCNZUHn-nAR2Uc5TRzeDOYPglQQjgxQM-Lp5xablipTI4UgSXWIoSiKd-TYI1OEIPf_dMZW6MmP0AUag2ZULzvfKKgfUD0Mwyw0epDfyM6Cn0rZ218Yk=w960-h640-no?authuser=0",
+      src: img18,
       width: 5,
       height: 4
     },
