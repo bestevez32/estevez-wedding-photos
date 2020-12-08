@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/estevez-wedding-photos/static/js/main.d5f6730e.chunk.js",
-    "main.js.map": "/estevez-wedding-photos/static/js/main.d5f6730e.chunk.js.map",
+    "main.js": "/estevez-wedding-photos/static/js/main.06bd2a74.chunk.js",
+    "main.js.map": "/estevez-wedding-photos/static/js/main.06bd2a74.chunk.js.map",
     "runtime-main.js": "/estevez-wedding-photos/static/js/runtime-main.35e86fc2.js",
     "runtime-main.js.map": "/estevez-wedding-photos/static/js/runtime-main.35e86fc2.js.map",
     "static/js/2.a5aa5a63.chunk.js": "/estevez-wedding-photos/static/js/2.a5aa5a63.chunk.js",
     "static/js/2.a5aa5a63.chunk.js.map": "/estevez-wedding-photos/static/js/2.a5aa5a63.chunk.js.map",
     "index.html": "/estevez-wedding-photos/index.html",
     "static/js/2.a5aa5a63.chunk.js.LICENSE.txt": "/estevez-wedding-photos/static/js/2.a5aa5a63.chunk.js.LICENSE.txt",
-    "static/media/wedding_1.827523b4.jpg": "/estevez-wedding-photos/static/media/wedding_1.827523b4.jpg",
+    "static/media/wedding_1.9fb87880.jpg": "/estevez-wedding-photos/static/media/wedding_1.9fb87880.jpg",
     "static/media/wedding_11.e9cb04e1.jpg": "/estevez-wedding-photos/static/media/wedding_11.e9cb04e1.jpg",
     "static/media/wedding_12.b99b97e1.jpg": "/estevez-wedding-photos/static/media/wedding_12.b99b97e1.jpg",
     "static/media/wedding_13.ccaf6a3c.jpg": "/estevez-wedding-photos/static/media/wedding_13.ccaf6a3c.jpg",
@@ -24,11 +24,11 @@
     "static/media/wedding_6.3d00395b.jpg": "/estevez-wedding-photos/static/media/wedding_6.3d00395b.jpg",
     "static/media/wedding_7.3ddc0cd1.jpg": "/estevez-wedding-photos/static/media/wedding_7.3ddc0cd1.jpg",
     "static/media/wedding_8.a8987e1a.jpg": "/estevez-wedding-photos/static/media/wedding_8.a8987e1a.jpg",
-    "static/media/wedding_9.c62d7289.jpg": "/estevez-wedding-photos/static/media/wedding_9.c62d7289.jpg"
+    "static/media/wedding_9.0001e9b8.jpg": "/estevez-wedding-photos/static/media/wedding_9.0001e9b8.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.35e86fc2.js",
     "static/js/2.a5aa5a63.chunk.js",
-    "static/js/main.d5f6730e.chunk.js"
+    "static/js/main.06bd2a74.chunk.js"
   ]
 }
