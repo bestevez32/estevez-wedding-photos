@@ -18,6 +18,16 @@ export default function Page1() {
     setViewerIsOpen(false);
   };
 
+  const customStyles = {
+    footerCount: () => ({
+      fontSize: '2.5vw',
+    }),
+
+    footerCaption: () => ({
+      fontSize: '2.5vw',
+    })
+  }
+
   return (
     <div style={{marginTop: "1rem"}}>
         <Gallery photos={page1photos} onClick={openLightbox}/>
@@ -25,11 +35,11 @@ export default function Page1() {
           {viewerIsOpen ? (
             <Modal onClose={closeLightbox}>
               <Carousel
+                styles={customStyles}
                 currentIndex={currentImage}
                 views={page1photos.map(x => ({
                   ...x,
-                  srcset: x.srcSet,
-                  caption: x.title
+                  caption: x.title,
                 }))}
               />
             </Modal>
