@@ -26,7 +26,7 @@ export default function Page1() {
             <Modal onClose={closeLightbox}>
               <Carousel
                 currentIndex={currentImage}
-                views={photos.map(x => ({
+                views={page1photos.map(x => ({
                   ...x,
                   srcset: x.srcSet,
                   caption: x.title
