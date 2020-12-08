@@ -70,22 +70,22 @@ export const photos = [
     },
     {
       src: img12,
-      width: 4,
+      width: 6,
       height: 4
     },
     {
       src: img13,
-      width: 7,
+      width: 6,
       height: 4
     },
     {
       src: img14,
-      width: 7,
+      width: 6,
       height: 4
     },
     {
       src: img15,
-      width: 8,
+      width: 4,
       height: 4
     },
     {
