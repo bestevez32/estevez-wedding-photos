@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/estevez-wedding-photos/static/js/main.06c127cb.chunk.js",
+    "main.js.map": "/estevez-wedding-photos/static/js/main.06c127cb.chunk.js.map",
+    "runtime-main.js": "/estevez-wedding-photos/static/js/runtime-main.35e86fc2.js",
+    "runtime-main.js.map": "/estevez-wedding-photos/static/js/runtime-main.35e86fc2.js.map",
+    "static/js/2.a5aa5a63.chunk.js": "/estevez-wedding-photos/static/js/2.a5aa5a63.chunk.js",
+    "static/js/2.a5aa5a63.chunk.js.map": "/estevez-wedding-photos/static/js/2.a5aa5a63.chunk.js.map",
+    "index.html": "/estevez-wedding-photos/index.html",
+    "static/js/2.a5aa5a63.chunk.js.LICENSE.txt": "/estevez-wedding-photos/static/js/2.a5aa5a63.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35e86fc2.js",
+    "static/js/2.a5aa5a63.chunk.js",
+    "static/js/main.06c127cb.chunk.js"
+  ]
+}
