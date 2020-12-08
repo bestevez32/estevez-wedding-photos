@@ -16,7 +16,7 @@ import img16 from './images/wedding_16.jpg'
 import img17 from './images/wedding_17.jpg'
 import img18 from './images/wedding_18.jpg'
 
-export const photos = [
+export const page1photos = [
     {
       src: img1,
       width: 3,
@@ -80,28 +80,28 @@ export const photos = [
     },
     {
       src: img14,
-      width: 6,
-      height: 4
+      width: 3,
+      height: 2
     },
     {
       src: img15,
-      width: 4,
-      height: 4
+      width: 1,
+      height: 1
     },
     {
       src: img16,
-      width: 4,
-      height: 4
+      width: 1,
+      height: 1
     },
     {
       src: img17,
-      width: 4,
-      height: 4
+      width: 1,
+      height: 1
     },
     {
       src: img18,
-      width: 4,
-      height: 4
+      width: 1,
+      height: 1
     },
   ];
   
