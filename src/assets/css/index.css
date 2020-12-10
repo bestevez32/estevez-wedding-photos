@@ -1,0 +1,41 @@
+.flexWrapper {
+  display: flex; 
+  flex-direction: column; 
+  align-content: center;
+}
+
+.titleWrapper {
+  display: flex; 
+  flex-direction: column; 
+  align-items: center; 
+  justify-content: center;
+  color:white; 
+}
+
+.title {
+  max-width: 50%; 
+  font-size: 4.0vmax; 
+  margin-top: 1rem;
+}
+
+.subTitle {
+  max-width: 50%; 
+  font-size: 3.0vmax; 
+  margin-top: 0.5rem;
+}
+
+.footerWrapper {
+  display: flex; 
+  flex-direction: row; 
+  justify-content: space-between; 
+  margin-top: 0.5rem; 
+  margin-bottom: 0.5rem;
+}
+
+.footerWrapper a {
+  text-decoration: none; 
+  color: white;
+  font-size: 2.5vmax;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}

@@ -1,18 +1,19 @@
 import React from "react";
 import { render } from "react-dom";
-import Page1 from "./Page1";
+import PageOne from "./components/pageOne";
+import './assets/css/index.css'
 
 function App() {
   return (
-    <div style={{display: "flex", flexDirection: "column", alignContent: "center"}}>
-      <div style={{display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center"}}>
-        <div style={{color:"white", maxWidth: '50%', fontSize: "4.0vmax", marginTop: "1rem"}}>Amanda & Brandon</div>
-        <div style={{color:"white", maxWidth: '50%', fontSize: "3.0vmax", marginTop: "0.5rem"}}>November 5th, 2020 </div>
+    <div className='flexWrapper'>
+      <div className='titleWrapper'>
+        <div className='title'>Amanda & Brandon</div>
+        <div className='subTitle'>November 5th, 2020 </div>
       </div>
-      <Page1/>
-      <div style={{display: "flex", flexDirection: "row", justifyContent: "space-between", marginTop: "0.5rem", marginBottom: "0.5rem"}}>
-        <div style={{color:"white", fontSize: "2.5vmax", marginLeft: "1rem"}}><a style={{textDecoration: "none", color: "white"}} href="https://www.blackbutteranch.com/weddings/elopements/" target="blank">Black Bute Ranch</a></div>
-        <div style={{color:"white", fontSize: "2.5vmax", marginRight: "1rem"}}><a style={{textDecoration: "none", color: "white"}} href="https://www.instagram.com/lucyfotomama/?hl=en" target="blank">Lucy Hobbs Photography</a></div>
+      <PageOne/>
+      <div className='footerWrapper'>
+        <a href="https://www.blackbutteranch.com/weddings/elopements/" target="blank">Black Bute Ranch</a>
+        <a href="https://www.instagram.com/lucyfotomama/?hl=en" target="blank">Lucy Hobbs Photography</a>
       </div>
     </div>
   );
