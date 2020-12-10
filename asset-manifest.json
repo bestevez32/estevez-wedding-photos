@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/estevez-wedding-photos/static/css/main.60be0345.chunk.css",
-    "main.js": "/estevez-wedding-photos/static/js/main.dca869d5.chunk.js",
-    "main.js.map": "/estevez-wedding-photos/static/js/main.dca869d5.chunk.js.map",
+    "main.css": "/estevez-wedding-photos/static/css/main.b8751613.chunk.css",
+    "main.js": "/estevez-wedding-photos/static/js/main.c7897273.chunk.js",
+    "main.js.map": "/estevez-wedding-photos/static/js/main.c7897273.chunk.js.map",
     "runtime-main.js": "/estevez-wedding-photos/static/js/runtime-main.35e86fc2.js",
     "runtime-main.js.map": "/estevez-wedding-photos/static/js/runtime-main.35e86fc2.js.map",
-    "static/js/2.1cb4b6dd.chunk.js": "/estevez-wedding-photos/static/js/2.1cb4b6dd.chunk.js",
-    "static/js/2.1cb4b6dd.chunk.js.map": "/estevez-wedding-photos/static/js/2.1cb4b6dd.chunk.js.map",
+    "static/js/2.29c299c0.chunk.js": "/estevez-wedding-photos/static/js/2.29c299c0.chunk.js",
+    "static/js/2.29c299c0.chunk.js.map": "/estevez-wedding-photos/static/js/2.29c299c0.chunk.js.map",
     "index.html": "/estevez-wedding-photos/index.html",
-    "static/css/main.60be0345.chunk.css.map": "/estevez-wedding-photos/static/css/main.60be0345.chunk.css.map",
-    "static/js/2.1cb4b6dd.chunk.js.LICENSE.txt": "/estevez-wedding-photos/static/js/2.1cb4b6dd.chunk.js.LICENSE.txt",
+    "static/css/main.b8751613.chunk.css.map": "/estevez-wedding-photos/static/css/main.b8751613.chunk.css.map",
+    "static/js/2.29c299c0.chunk.js.LICENSE.txt": "/estevez-wedding-photos/static/js/2.29c299c0.chunk.js.LICENSE.txt",
     "static/media/wedding_1.9fb87880.jpg": "/estevez-wedding-photos/static/media/wedding_1.9fb87880.jpg",
     "static/media/wedding_11.e9cb04e1.jpg": "/estevez-wedding-photos/static/media/wedding_11.e9cb04e1.jpg",
     "static/media/wedding_12.b99b97e1.jpg": "/estevez-wedding-photos/static/media/wedding_12.b99b97e1.jpg",
     "static/media/wedding_13.ccaf6a3c.jpg": "/estevez-wedding-photos/static/media/wedding_13.ccaf6a3c.jpg",
     "static/media/wedding_14.df99b596.jpg": "/estevez-wedding-photos/static/media/wedding_14.df99b596.jpg",
-    "static/media/wedding_15.05ba0f15.jpg": "/estevez-wedding-photos/static/media/wedding_15.05ba0f15.jpg",
     "static/media/wedding_16.9a3b9c52.jpg": "/estevez-wedding-photos/static/media/wedding_16.9a3b9c52.jpg",
-    "static/media/wedding_17.c4d669f3.jpg": "/estevez-wedding-photos/static/media/wedding_17.c4d669f3.jpg",
     "static/media/wedding_18.8ab8496e.jpg": "/estevez-wedding-photos/static/media/wedding_18.8ab8496e.jpg",
+    "static/media/wedding_19.598561f0.jpg": "/estevez-wedding-photos/static/media/wedding_19.598561f0.jpg",
     "static/media/wedding_2.76054427.jpg": "/estevez-wedding-photos/static/media/wedding_2.76054427.jpg",
+    "static/media/wedding_20.55532428.jpg": "/estevez-wedding-photos/static/media/wedding_20.55532428.jpg",
+    "static/media/wedding_21.780144f6.jpg": "/estevez-wedding-photos/static/media/wedding_21.780144f6.jpg",
     "static/media/wedding_3.c5c37995.jpg": "/estevez-wedding-photos/static/media/wedding_3.c5c37995.jpg",
     "static/media/wedding_4.2da40a01.jpg": "/estevez-wedding-photos/static/media/wedding_4.2da40a01.jpg",
     "static/media/wedding_5.2c3909ee.jpg": "/estevez-wedding-photos/static/media/wedding_5.2c3909ee.jpg",
@@ -30,8 +31,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.35e86fc2.js",
-    "static/js/2.1cb4b6dd.chunk.js",
-    "static/css/main.60be0345.chunk.css",
-    "static/js/main.dca869d5.chunk.js"
+    "static/js/2.29c299c0.chunk.js",
+    "static/css/main.b8751613.chunk.css",
+    "static/js/main.c7897273.chunk.js"
   ]
 }
