@@ -11,8 +11,8 @@ function App() {
       </div>
       <Page1/>
       <div style={{display: "flex", flexDirection: "row", justifyContent: "space-between", marginTop: "0.5rem", marginBottom: "0.5rem"}}>
-        <div style={{color:"white", fontSize: "2.0vw", marginLeft: "1rem"}}><a style={{textDecoration: "none", color: "white"}} href="https://www.blackbutteranch.com/weddings/elopements/" target="blank">Black Bute Ranch</a></div>
-        <div style={{color:"white", fontSize: "2.0vw", marginRight: "1rem"}}><a style={{textDecoration: "none", color: "white"}} href="https://www.instagram.com/lucyfotomama/?hl=en" target="blank">Lucy Hobbs Photography</a></div>
+        <div style={{color:"white", fontSize: "2.5vmax", marginLeft: "1rem"}}><a style={{textDecoration: "none", color: "white"}} href="https://www.blackbutteranch.com/weddings/elopements/" target="blank">Black Bute Ranch</a></div>
+        <div style={{color:"white", fontSize: "2.5vmax", marginRight: "1rem"}}><a style={{textDecoration: "none", color: "white"}} href="https://www.instagram.com/lucyfotomama/?hl=en" target="blank">Lucy Hobbs Photography</a></div>
       </div>
     </div>
   );

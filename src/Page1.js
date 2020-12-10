@@ -20,11 +20,11 @@ export default function Page1() {
 
   const customStyles = {
     footerCount: () => ({
-      fontSize: '2.5vw',
+      fontSize: '3.0vmax',
     }),
 
     footerCaption: () => ({
-      fontSize: '2.5vw',
+      fontSize: '3.0vmax',
     })
   }
 
