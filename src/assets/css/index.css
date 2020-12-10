@@ -8,7 +8,6 @@
   display: flex; 
   flex-direction: column; 
   align-items: center; 
-  justify-content: center;
   color:white; 
 }
 
@@ -35,7 +34,21 @@
 .footerWrapper a {
   text-decoration: none; 
   color: white;
-  font-size: 2.5vmax;
+  font-size: 2.0vmax;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.navigation {
+  color:white;
+  display: flex; 
+  flex-direction: row; 
+  justify-content: space-between; 
+}
+
+.navigation a {
+  color: white;
+  text-decoration: none;
   margin-left: 1rem;
   margin-right: 1rem;
 }

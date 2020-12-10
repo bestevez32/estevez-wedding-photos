@@ -1,11 +1,11 @@
 import React, { useState, useCallback } from "react";
 import Gallery from "react-photo-gallery";
 import Carousel, { Modal, ModalGateway } from "react-images";
-import { pageOnePhotos, galleryPhotos } from "./photos";
+import { pageThreePhotos,  galleryPhotos } from "./photos";
 
 import '../assets/css/pageOne.css'
 
-export default function PageOne() {
+export default function PageThree() {
   const [currentImage, setCurrentImage] = useState(0);
   const [viewerIsOpen, setViewerIsOpen] = useState(false);
 
@@ -31,14 +31,14 @@ export default function PageOne() {
 
   return (
     <div className='pageMargins'>
-        <Gallery photos={pageOnePhotos} onClick={openLightbox}/>
+        <Gallery photos={pageThreePhotos} onClick={openLightbox}/>
         <ModalGateway>
           {viewerIsOpen ? (
             <Modal onClose={closeLightbox}>
               <Carousel
                 styles={customStyles}
-                currentIndex={currentImage}
-                views={galleryPhotos.map(x => ({
+                currentIndex={currentImage + 12}
+                views={ galleryPhotos.map(x => ({
                   ...x,
                   caption: x.title,
                 }))}
