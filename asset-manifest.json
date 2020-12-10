@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/estevez-wedding-photos/static/css/main.b8751613.chunk.css",
-    "main.js": "/estevez-wedding-photos/static/js/main.c7897273.chunk.js",
-    "main.js.map": "/estevez-wedding-photos/static/js/main.c7897273.chunk.js.map",
+    "main.js": "/estevez-wedding-photos/static/js/main.a59cbf99.chunk.js",
+    "main.js.map": "/estevez-wedding-photos/static/js/main.a59cbf99.chunk.js.map",
     "runtime-main.js": "/estevez-wedding-photos/static/js/runtime-main.35e86fc2.js",
     "runtime-main.js.map": "/estevez-wedding-photos/static/js/runtime-main.35e86fc2.js.map",
     "static/js/2.29c299c0.chunk.js": "/estevez-wedding-photos/static/js/2.29c299c0.chunk.js",
@@ -33,6 +33,6 @@
     "static/js/runtime-main.35e86fc2.js",
     "static/js/2.29c299c0.chunk.js",
     "static/css/main.b8751613.chunk.css",
-    "static/js/main.c7897273.chunk.js"
+    "static/js/main.a59cbf99.chunk.js"
   ]
 }
