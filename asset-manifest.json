@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/estevez-wedding-photos/static/css/main.b8751613.chunk.css",
-    "main.js": "/estevez-wedding-photos/static/js/main.788e3cf6.chunk.js",
-    "main.js.map": "/estevez-wedding-photos/static/js/main.788e3cf6.chunk.js.map",
+    "main.css": "/estevez-wedding-photos/static/css/main.a069e8cf.chunk.css",
+    "main.js": "/estevez-wedding-photos/static/js/main.577ece55.chunk.js",
+    "main.js.map": "/estevez-wedding-photos/static/js/main.577ece55.chunk.js.map",
     "runtime-main.js": "/estevez-wedding-photos/static/js/runtime-main.35e86fc2.js",
     "runtime-main.js.map": "/estevez-wedding-photos/static/js/runtime-main.35e86fc2.js.map",
-    "static/js/2.2a671b50.chunk.js": "/estevez-wedding-photos/static/js/2.2a671b50.chunk.js",
-    "static/js/2.2a671b50.chunk.js.map": "/estevez-wedding-photos/static/js/2.2a671b50.chunk.js.map",
+    "static/js/2.1cb4b6dd.chunk.js": "/estevez-wedding-photos/static/js/2.1cb4b6dd.chunk.js",
+    "static/js/2.1cb4b6dd.chunk.js.map": "/estevez-wedding-photos/static/js/2.1cb4b6dd.chunk.js.map",
     "index.html": "/estevez-wedding-photos/index.html",
-    "static/css/main.b8751613.chunk.css.map": "/estevez-wedding-photos/static/css/main.b8751613.chunk.css.map",
-    "static/js/2.2a671b50.chunk.js.LICENSE.txt": "/estevez-wedding-photos/static/js/2.2a671b50.chunk.js.LICENSE.txt",
+    "static/css/main.a069e8cf.chunk.css.map": "/estevez-wedding-photos/static/css/main.a069e8cf.chunk.css.map",
+    "static/js/2.1cb4b6dd.chunk.js.LICENSE.txt": "/estevez-wedding-photos/static/js/2.1cb4b6dd.chunk.js.LICENSE.txt",
     "static/media/wedding_1.9fb87880.jpg": "/estevez-wedding-photos/static/media/wedding_1.9fb87880.jpg",
     "static/media/wedding_11.e9cb04e1.jpg": "/estevez-wedding-photos/static/media/wedding_11.e9cb04e1.jpg",
     "static/media/wedding_12.b99b97e1.jpg": "/estevez-wedding-photos/static/media/wedding_12.b99b97e1.jpg",
@@ -31,8 +31,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.35e86fc2.js",
-    "static/js/2.2a671b50.chunk.js",
-    "static/css/main.b8751613.chunk.css",
-    "static/js/main.788e3cf6.chunk.js"
+    "static/js/2.1cb4b6dd.chunk.js",
+    "static/css/main.a069e8cf.chunk.css",
+    "static/js/main.577ece55.chunk.js"
   ]
 }
