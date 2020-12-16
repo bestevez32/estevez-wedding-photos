@@ -23,14 +23,14 @@ function App() {
       </div>
         <Router>
         <div className='navigation'>
-          <div><Link to="/">Page One</Link></div>
-          <div> <Link to="/page-two">Page Two</Link></div>
-          <div> <Link to="/page-three">Page Three</Link></div>
+          <div><Link to="/estevez-wedding-photos/">Page One</Link></div>
+          <div> <Link to="/estevez-wedding-photos/page-two">Page Two</Link></div>
+          <div> <Link to="/estevez-wedding-photos/page-three">Page Three</Link></div>
         </div>
           <Switch>
-            <Route path="/page-three" component={PageThree}/>
-            <Route path="/page-two" component={PageTwo}/>
-            <Route path="/" component={PageOne}/>
+            <Route path="/estevez-wedding-photos/page-three" component={PageThree}/>
+            <Route path="/estevez-wedding-photos/page-two" component={PageTwo}/>
+            <Route path="/estevez-wedding-photos/" component={PageOne}/>
           </Switch>
         </Router>
       <div className='footerWrapper'>
