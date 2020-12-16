@@ -31,7 +31,7 @@ export default function PageOne() {
 
   return (
     <div className='pageMargins'>
-        <Gallery photos={pageOnePhotos} onClick={openLightbox}/>
+        <Gallery photos={galleryPhotos} onClick={openLightbox}/>
         <ModalGateway>
           {viewerIsOpen ? (
             <Modal onClose={closeLightbox}>
