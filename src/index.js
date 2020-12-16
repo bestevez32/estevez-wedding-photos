@@ -28,9 +28,11 @@ function App() {
           <div> <Link to="/estevez-wedding-photos/page-three">Page Three</Link></div>
         </div>
           <Switch>
-            <Route path="/estevez-wedding-photos/page-three" component={PageThree}/>
-            <Route path="/estevez-wedding-photos/page-two" component={PageTwo}/>
-            <Route path="/estevez-wedding-photos/" component={PageOne}/>
+            {/* <Route path="/estevez-wedding-photos/page-three" component={PageThree}/> */}
+            <Route path={process.env.PUBLIC_URL + '/page-three'} component={PageThree}/>
+            
+            <Route path={process.env.PUBLIC_URL + '/page-two'} component={PageTwo}/>
+            <Route path={process.env.PUBLIC_URL + '/'} component={PageOne}/>
           </Switch>
         </Router>
       <div className='footerWrapper'>
